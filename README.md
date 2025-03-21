@@ -1,5 +1,5 @@
 ## This is react TicTocToe typescript project 
- this is create with **npx create-next-app@latest** to use next.js
+ this application created with **npx create-next-app@latest** to use next.js
 ## Getting Started
 
 First, run the development server:
